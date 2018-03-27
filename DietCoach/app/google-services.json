@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "413935572828",
+    "firebase_url": "https://dietcoach-38d9c.firebaseio.com",
+    "project_id": "dietcoach-38d9c",
+    "storage_bucket": "dietcoach-38d9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413935572828:android:167b1a3aa7a04d81",
+        "android_client_info": {
+          "package_name": "com.example.mourtz.dietcoach"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413935572828-97k74g9d4oav2cd9ffsk1p4o10faoaem.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mourtz.dietcoach",
+            "certificate_hash": "190beed283a1f9657a4e521792f4afd2b010429a"
+          }
+        },
+        {
+          "client_id": "413935572828-eopopv0d34lc6sr16v9qig846glj4a0h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXyfcbDLq66qluduzohZszHFZ7PXbqgig"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413935572828-eopopv0d34lc6sr16v9qig846glj4a0h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
